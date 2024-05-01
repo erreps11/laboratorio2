@@ -3,11 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_01_operaciones_Básicas", "Ejercicio_01_operaciones_Básicas\Ejercicio_01_operaciones_Básicas.csproj", "{8B628957-7B8F-412D-9815-2A91A58CA551}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 01 operacionesBásicas", "Ejercicio_01_operaciones_Básicas\Ejercicio 01 operacionesBásicas.csproj", "{8B628957-7B8F-412D-9815-2A91A58CA551}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercico_02_Par_o_Impar", "Ejercico_02_Par_o_Impar\Ejercico_02_Par_o_Impar.csproj", "{0B4527CE-951B-4EBB-88EF-C3F96B5B79D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 02 Par_o_Impar", "Ejercico_02_Par_o_Impar\Ejercicio 02 Par_o_Impar.csproj", "{0B4527CE-951B-4EBB-88EF-C3F96B5B79D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio03_Area_de_Triangulo", "ejercicio03_Area_de_Triangulo\ejercicio03_Area_de_Triangulo.csproj", "{8090A204-B695-4B04-8DE7-026F21022300}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 03 Area_de_Triangulo", "ejercicio03_Area_de_Triangulo\Ejercicio 03 Area_de_Triangulo.csproj", "{8090A204-B695-4B04-8DE7-026F21022300}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 04 factorial", "Ejercico04_factorial\Ejercicio 04 factorial.csproj", "{446D66F3-F41D-4790-B217-1564A0EEA27E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 05 Número_Primo", "Ejercicio05_Número_Primo\Ejercicio 05 Número_Primo.csproj", "{9CFDF321-06BD-4D3E-99B8-5CE41157E4B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 06 Inversión de Cadena", "Ejercicio 06 Inversión de Cadena\Ejercicio 06 Inversión de Cadena.csproj", "{951BC33B-A0E4-4857-9DE7-EE0413C5CF21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 07 suma de pares", "Ejercicio 07 suma de pares\Ejercicio 07 suma de pares.csproj", "{3A06EC44-EC37-4487-BD92-C93641F26448}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 08 Lista de Cuadrados", "Ejercicio 08 Lista de Cuadrados\Ejercicio 08 Lista de Cuadrados.csproj", "{DE08ECF7-2C62-450B-8811-5B9571BEED59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 09 Contador de Vocales", "Ejercicio 09 Contador de Vocales\Ejercicio 09 Contador de Vocales.csproj", "{52EAE4F4-BADC-46F1-8288-5D5BDD8FB0CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 10 Números de la Serie Fibonacci", "Ejercicio 10 Números de la Serie Fibonacci\Ejercicio 10 Números de la Serie Fibonacci.csproj", "{C00A66FD-A986-4DC4-BACF-F592E22A31CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +41,34 @@ Global
 		{8090A204-B695-4B04-8DE7-026F21022300}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8090A204-B695-4B04-8DE7-026F21022300}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8090A204-B695-4B04-8DE7-026F21022300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{446D66F3-F41D-4790-B217-1564A0EEA27E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{446D66F3-F41D-4790-B217-1564A0EEA27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{446D66F3-F41D-4790-B217-1564A0EEA27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{446D66F3-F41D-4790-B217-1564A0EEA27E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CFDF321-06BD-4D3E-99B8-5CE41157E4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFDF321-06BD-4D3E-99B8-5CE41157E4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFDF321-06BD-4D3E-99B8-5CE41157E4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFDF321-06BD-4D3E-99B8-5CE41157E4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951BC33B-A0E4-4857-9DE7-EE0413C5CF21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951BC33B-A0E4-4857-9DE7-EE0413C5CF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951BC33B-A0E4-4857-9DE7-EE0413C5CF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951BC33B-A0E4-4857-9DE7-EE0413C5CF21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A06EC44-EC37-4487-BD92-C93641F26448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A06EC44-EC37-4487-BD92-C93641F26448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A06EC44-EC37-4487-BD92-C93641F26448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A06EC44-EC37-4487-BD92-C93641F26448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE08ECF7-2C62-450B-8811-5B9571BEED59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE08ECF7-2C62-450B-8811-5B9571BEED59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE08ECF7-2C62-450B-8811-5B9571BEED59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE08ECF7-2C62-450B-8811-5B9571BEED59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52EAE4F4-BADC-46F1-8288-5D5BDD8FB0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52EAE4F4-BADC-46F1-8288-5D5BDD8FB0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52EAE4F4-BADC-46F1-8288-5D5BDD8FB0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52EAE4F4-BADC-46F1-8288-5D5BDD8FB0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C00A66FD-A986-4DC4-BACF-F592E22A31CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00A66FD-A986-4DC4-BACF-F592E22A31CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00A66FD-A986-4DC4-BACF-F592E22A31CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00A66FD-A986-4DC4-BACF-F592E22A31CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
