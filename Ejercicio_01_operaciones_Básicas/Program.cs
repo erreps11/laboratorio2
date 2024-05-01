@@ -5,13 +5,13 @@ double numero1, numero2;
 Console.Write("ingresa el primer numero: ");
 while(!double.TryParse(Console.ReadLine(), out numero1))
 {
-    Console.Write("Número no válido. Ingrese un número válido");
+    Console.Write("Número no válido. Ingrese un número válido: ");
 }
 
 Console.Write("ingresa el primer numero: ");
 while (!double.TryParse(Console.ReadLine(), out numero2))
 {
-    Console.Write("Número no válido. Ingrese un número válido");
+    Console.Write("Número no válido. Ingrese un número válido: ");
 }
 
 Console.WriteLine($"Suma: {numero1 + numero2}");

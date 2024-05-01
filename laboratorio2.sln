@@ -5,6 +5,10 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_01_operaciones_Básicas", "Ejercicio_01_operaciones_Básicas\Ejercicio_01_operaciones_Básicas.csproj", "{8B628957-7B8F-412D-9815-2A91A58CA551}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercico_02_Par_o_Impar", "Ejercico_02_Par_o_Impar\Ejercico_02_Par_o_Impar.csproj", "{0B4527CE-951B-4EBB-88EF-C3F96B5B79D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio03_Area_de_Triangulo", "ejercicio03_Area_de_Triangulo\ejercicio03_Area_de_Triangulo.csproj", "{8090A204-B695-4B04-8DE7-026F21022300}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{8B628957-7B8F-412D-9815-2A91A58CA551}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B628957-7B8F-412D-9815-2A91A58CA551}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B628957-7B8F-412D-9815-2A91A58CA551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B4527CE-951B-4EBB-88EF-C3F96B5B79D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B4527CE-951B-4EBB-88EF-C3F96B5B79D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B4527CE-951B-4EBB-88EF-C3F96B5B79D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B4527CE-951B-4EBB-88EF-C3F96B5B79D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8090A204-B695-4B04-8DE7-026F21022300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8090A204-B695-4B04-8DE7-026F21022300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8090A204-B695-4B04-8DE7-026F21022300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8090A204-B695-4B04-8DE7-026F21022300}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
